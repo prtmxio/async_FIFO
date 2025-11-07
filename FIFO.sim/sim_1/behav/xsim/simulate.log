@@ -1,0 +1,173 @@
+Time resolution is 1 ps
+Note: ========== RESET ==========
+Time: 0 ps  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: ========== WRITING 5 VALUES ==========
+Time: 50 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 0x10
+Time: 50 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x10
+Time: 55 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 0x20
+Time: 60 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x20
+Time: 65 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 0x30
+Time: 70 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x30
+Time: 75 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 0x40
+Time: 80 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x40
+Time: 85 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 0x50
+Time: 90 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x50
+Time: 95 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: ========== READING 3 VALUES ==========
+Time: 130 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x00
+Time: 135 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x10 (should be 0x10)
+Time: 140 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x10
+Time: 145 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x20 (should be 0x20)
+Time: 150 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x20
+Time: 155 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x30 (should be 0x30)
+Time: 160 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: ========== WRITING 3 MORE VALUES ==========
+Time: 190 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 0x60
+Time: 190 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x60
+Time: 195 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 0x70
+Time: 200 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x70
+Time: 205 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 0x80
+Time: 210 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x80
+Time: 215 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: ========== READING ALL REMAINING ==========
+Time: 250 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x30
+Time: 255 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x40 (should be 0x40)
+Time: 260 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x40
+Time: 265 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x50 (should be 0x50)
+Time: 270 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x50
+Time: 275 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x60 (should be 0x60)
+Time: 280 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x60
+Time: 285 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x70 (should be 0x70)
+Time: 290 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x70
+Time: 295 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x80 (should be 0x80)
+Time: 300 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: ========== FILLING FIFO COMPLETELY ==========
+Time: 330 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 100
+Time: 330 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x64
+Time: 335 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 101
+Time: 340 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x65
+Time: 345 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 102
+Time: 350 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x66
+Time: 355 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 103
+Time: 360 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x67
+Time: 365 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 104
+Time: 370 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x68
+Time: 375 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 105
+Time: 380 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x69
+Time: 385 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 106
+Time: 390 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x6A
+Time: 395 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Writing: 107
+Time: 400 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0x6B
+Time: 405 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: ========== TRYING TO WRITE WHEN FULL ==========
+Time: 440 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Attempting write (should be blocked!)
+Time: 440 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: ========== EMPTYING FIFO ==========
+Time: 490 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x80
+Time: 495 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x64
+Time: 500 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x64
+Time: 505 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x65
+Time: 510 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x65
+Time: 515 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x66
+Time: 520 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x66
+Time: 525 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x67
+Time: 530 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x67
+Time: 535 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x68
+Time: 540 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x68
+Time: 545 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x69
+Time: 550 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x69
+Time: 555 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x6A
+Time: 560 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x6A
+Time: 565 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0x6B
+Time: 570 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: ========== SIMULTANEOUS READ AND WRITE ==========
+Time: 600 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0xAA
+Time: 605 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Simultaneous: Writing 0xBB, Reading...
+Time: 630 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0xBB
+Time: 635 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0x6B
+Time: 635 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0xAA (should be 0xAA)
+Time: 640 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Simultaneous: Writing 0xCC, Reading...
+Time: 640 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: >>> WRITE detected | Data=0xCC
+Time: 645 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: <<< READ detected  | Data=0xAA
+Time: 645 ns  Iteration: 1  Process: /FIFO_TB/monitor_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: Read: 0xBB (should be 0xBB)
+Time: 650 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: ========================================
+Time: 680 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: ========== TEST COMPLETE! ==========
+Time: 680 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
+Note: ========================================
+Time: 680 ns  Iteration: 0  Process: /FIFO_TB/test_process  File: C:/Users/Pritam/Documents/FIFO/FIFO.srcs/sim_1/new/FIFO_TB.vhd
